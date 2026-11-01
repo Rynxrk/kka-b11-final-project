@@ -1,9 +1,3 @@
-"""
-RPG Loadout Optimizer - Genetic Algorithm
-Score = ATK_total x (1 + CR_total x CD_total)
-1 item per slot: Flower, Plume, Sands, Goblet, Circlet
-Kromosom = list 5 gen (satu item per slot)
-"""
 import random
 import time
 import tracemalloc
